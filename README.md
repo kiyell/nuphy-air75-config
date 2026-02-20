@@ -1,5 +1,7 @@
 # NuPhy Air75 V2 productivity configuration
 
+<img src="./nuphy-air75v2-image.png" alt="Nuphy Air72 V2 Keyboard">
+
 ## How to use
 
 Use Chrome to access [usevia.app](https://usevia.app) and load the [design file](https://nuphy.com/pages/json-files-for-nuphy-keyboards). Then load the saved JSON layout file. Layer 0 and 2 correspond to MAC and WIN mode switch. 
