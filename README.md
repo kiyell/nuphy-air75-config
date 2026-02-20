@@ -1,10 +1,13 @@
-# NuPhy Air75 V2 productivity configuration
-
 <img src="./nuphy-air75v2-image.png" alt="Nuphy Air72 V2 Keyboard">
+
+## NuPhy Air75 V2 Keyboard Configuration
+
+
+My personal config for productivity.
 
 ## How to use
 
-Use Chrome to access [usevia.app](https://usevia.app) and load the [design file](https://nuphy.com/pages/json-files-for-nuphy-keyboards). Then load the saved JSON layout file. Layer 0 and 2 correspond to MAC and WIN mode switch. 
+Use Chrome to access [usevia.app](https://usevia.app) and load the [design file](https://nuphy.com/pages/json-files-for-nuphy-keyboards). Then load the saved [JSON layout file](./nuphy_air75_v2.layout.json). Layer 0 and 2 correspond to MAC and WIN mode switch. 
 
 ## Details
 
@@ -25,7 +28,7 @@ L | LT((MOD_LALT,KC_L)
 ```
 ### Caps remapped to backspace + mouse keys
 
-Caps tapped is backspace. Caps held down to use keyboard mouse layer. JILK for moving the cursor left, up, right, down. UO for left and right mouse buttons. QE for scrolling up and down.
+Caps tapped is backspace. Caps held down to use keyboard mouse layer. AWSD for scrolling left, up, down, right. JILK for moving the cursor left, up, right, down. UO for left and right mouse buttons. 
 ```
 Layer 2
 
